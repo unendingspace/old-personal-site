@@ -95,7 +95,3 @@ a:link, a:visited {
 	font-family: 'Scada', sans-serif;
 	line-height: 150%;
 }
-
-.content a :hover {
-	color: #CCCCCC;
-}
