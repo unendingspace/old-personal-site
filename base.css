@@ -35,7 +35,7 @@ body {
 
 }
 
-a:link, a:visited {
+a {
 	text-decoration: none;
 	color: white;
 }
@@ -94,4 +94,8 @@ a:link, a:visited {
 	margin-right: 25%;
 	font-family: 'Scada', sans-serif;
 	line-height: 150%;
+}
+
+.content a {
+	color: #AF9FF7;
 }
