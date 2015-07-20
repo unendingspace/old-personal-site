@@ -100,3 +100,22 @@ a {
 .content a {
 	color: #AF9FF7;
 }
+
+.contentitem h1 {
+	padding-left: 30px;
+	padding-top: 20px;
+	font-size: 25px;
+	font-family: 'Scada', serif;
+}
+
+.contentitem p {
+	padding-left: 40px;
+	font-size: 20px;
+}
+
+.contentitem img {
+	float: right;
+	height: 75px;
+	width: auto;
+}
+	
