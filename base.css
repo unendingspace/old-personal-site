@@ -124,7 +124,7 @@ a {
 
 .contentitem img {
 	height: 150px;
-	width: 20%;
+	width: auto;
 	display: inline-block;
 	float: right;
 	padding-left: 20px;
