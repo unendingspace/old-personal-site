@@ -101,20 +101,24 @@ a {
 	color: #AF9FF7;
 }
 
+.contentitem {
+	display: inline-block;
+}
+
 .contentitem h1 {
 	padding-left: 30px;
 	padding-top: 20px;
 	font-size: 25px;
 	font-family: 'Scada', serif;
+	display: block;
 }
 
 .contentitem p {
 	padding-left: 40px;
 	font-size: 20px;
-	display: inline-block;
 }
 
-.contentitem img {
+.content img {
 	height: 150px;
 	width: auto;
 	display: inline-block;
