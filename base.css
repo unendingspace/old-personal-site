@@ -1,6 +1,6 @@
 body {
-	background-color: #3807FA;
-	background-image: url("http://mattplmr.me/images/background.png");
+	background-color: #7109AA;
+	background-image: url("images/background.png");
 	font-family: 'Lora', serif;
 	color: white;
 }
@@ -47,7 +47,7 @@ a {
 }
 
 .nav .curr-page {
-	background-color: #491FF9;
+	background-color: #48036F;
 }
 
 .nav div {
@@ -62,7 +62,7 @@ a {
 }
 
 .nav div:hover {
-	background-color: #2802C2;
+	background-color: #9F3ED5;
 }
 
 .nav h2 {
@@ -76,7 +76,7 @@ a {
 }
 
 .content {
-	background-color: #491FF9;
+	background-color: #48036F;
 	padding-bottom: 10px;
 	height: auto;
 	width: 100%;
